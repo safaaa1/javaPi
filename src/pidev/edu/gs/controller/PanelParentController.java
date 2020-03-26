@@ -21,7 +21,7 @@ import javafx.scene.layout.AnchorPane;
  *
  * @author Mohamed
  */
-public class PanelClientController implements Initializable {
+public class PanelParentController implements Initializable {
 
     @FXML
     private AnchorPane container_client;
